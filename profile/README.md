@@ -1,15 +1,13 @@
-# UDSM 3D Solutions and Robotics Studio
-
 Welcome to the UDSM 3D Solutions and Robotics Studio! We are a dynamic hub at the forefront of 3D modeling, simulations, and robotics, based at the University of Dar es Salaam. 🤖🎨
 
-## About Us
+**About Us**
 
 Our studio is a partnership between UDSM and TIKA from Turkey, offering cutting-edge services and opportunities for members. We have three specialized units:
 - 3D Modeling and Prototyping 🖥️
 - Robotics and Embedded Systems Programming 🤖
 - Simulations 🌐
 
-## Contribution Guidelines
+**Contribution Guidelines**
 
 We welcome contributions from the community! Here's how you can get involved:
 1. Fork the repository
@@ -20,20 +18,18 @@ We welcome contributions from the community! Here's how you can get involved:
 
 Please make sure to update tests as appropriate. 🛠️
 
-## Useful Resources
+**Useful Resources**
 
 - [Documentation](link-to-docs) - Find our detailed documentation here. 📚
 - [Issues](link-to-issues) - Report any issues or bugs you encounter here. 🐛
 
-## Fun Facts
+**Fun Facts**
 
-- Our team's favorite breakfast is micro-chips. 🥞🍁
-- We hold a weekly workshops where we create cool projects. 🚀
+- Our team's favorite breakfast is pancakes with micro chips. 🥞🍁
+- We hold weekly workshops where we create cool projects. 🚀
 
-## Contact Us
+**Contact Us**
 
 If you have any questions or feedback, feel free to [contact us](mailto:udsm3d.robotics@gmail.com). 📧
 
 Happy coding! 🎉
-
-
