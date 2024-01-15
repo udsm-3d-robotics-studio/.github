@@ -27,8 +27,8 @@ Please make sure to update tests as appropriate. 🛠️
 
 ## Fun Facts
 
-- Our team's favorite breakfast is pancakes with maple syrup. 🥞🍁
-- We hold a monthly hackathon where we create cool projects. 🚀
+- Our team's favorite breakfast is micro-chips. 🥞🍁
+- We hold a weekly workshops where we create cool projects. 🚀
 
 ## Contact Us
 
