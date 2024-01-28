@@ -1,6 +1,6 @@
 Hi there! 👋
 
-Welcome to the UDSM 3D Solutions and Robotics Studio! We are a dynamic hub at the forefront of 3D modeling, simulations, and robotics, based at the University of Dar es Salaam. 🤖🎨
+Welcome to the UDSM 3D Solutions and Robotics Studio! We are a hub at the forefront of 3D modeling, simulations, and robotics, based at the University of Dar es Salaam. 🤖🎨
 
 **About Us**
 
