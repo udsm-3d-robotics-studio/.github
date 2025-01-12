@@ -9,6 +9,7 @@ Our studio is a partnership between UDSM and TIKA from Turkey, offering cutting-
 - Robotics and Embedded Systems Programming 🤖
 - Simulations 🌐
 - Software development
+- AI & Machine learning
 
 **Contribution Guidelines**
 
