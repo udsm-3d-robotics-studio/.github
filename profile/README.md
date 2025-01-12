@@ -8,6 +8,7 @@ Our studio is a partnership between UDSM and TIKA from Turkey, offering cutting-
 - 3D Modeling and Prototyping 🖥️
 - Robotics and Embedded Systems Programming 🤖
 - Simulations 🌐
+- Software development
 
 **Contribution Guidelines**
 
